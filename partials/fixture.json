@@ -1,0 +1,45 @@
+{
+  "kind": "books#volume",
+  "id": "Aaug_RnI-xQC",
+  "etag": "umES5/z7uC0",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Aaug_RnI-xQC",
+  "volumeInfo": {
+   "title": "The Irresistible Rise of Harry Potter",
+   "authors": [
+    "Andrew Blake"
+   ],
+   "publisher": "Verso",
+   "publishedDate": "2002",
+   "description": "As the British state begins to unravel, and as journalists compete to pronounce on the death of Britain, a schoolboy from suburban Surrey who lives for most of the year in a semi-parallel universe becomes the most popular figure in contemporary world literature. Now read on – everyone else does... Harry Potter is English, a home-counties suburban child. An orphan, oppressed and abused by the adults around him, he retreats into a fantasy world where his problems are more elemental; everyday rituals, magic spells and supercharged broomsticks with only the occasional homicidal wizard to worry about. Ironically, as Andrew Blake makes clear, J. K. Rowling rescues her character through the reinvention of that apex of class privilege, the English public school, a literary conceit that problematises Harry Potter's status as a role model and raises important social questions about the state of education in Tony Blair's Britain. Andrew Blake's examination of the Harry Potter phenomenon also raises serious questions about the condition of the publishing industry, the state of bookselling and filmmaking, and the ways in which the Potter consumer campaign has changed our ideas about literature and reading. Blake reflects on how these connections, while drawn up in Britain, act as a template for Harry Potter's international success.",
+   "readingModes": {
+    "text": false,
+    "image": true
+   },
+   "maturityRating": "NOT_MATURE",
+   "allowAnonLogging": false,
+   "contentVersion": "1.1.1.0.preview.1",
+   "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+   },
+   "previewLink": "http://books.google.com/books?id=Aaug_RnI-xQC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+   "infoLink": "http://books.google.com/books?id=Aaug_RnI-xQC&dq=harry+potter&hl=&as_pt=BOOKS&source=gbs_api",
+   "canonicalVolumeLink": "https://books.google.com/books/about/The_Irresistible_Rise_of_Harry_Potter.html?hl=&id=Aaug_RnI-xQC"
+  },
+  "saleInfo": {
+   "country": "US"
+  },
+  "accessInfo": {
+   "country": "US",
+   "epub": {
+    "isAvailable": false
+   },
+   "pdf": {
+    "isAvailable": false
+   },
+   "accessViewStatus": "SAMPLE"
+  },
+  "searchInfo": {
+   "textSnippet": "Blake&#39;s examination of the Potter phenomenon raises serious questions about the condition of the publishing industry, filmmaking, and the ways in which the Potter consumer campaign has changed ideas about literature and reading."
+  }
+ }

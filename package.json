@@ -10,16 +10,20 @@
     "test-deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons"
   },
   "dependencies": {
-    "choo": "^6.0.0-4",
     "choo-devtools": "^1.5.0",
     "choo-log": "^7.2.1",
     "choo-service-worker": "^2.3.0",
+    "dlv": "^1.1.0",
+    "global": "^4.3.2",
+    "he": "^1.1.1",
     "sheetify": "^6.2.0",
     "tachyons": "^4.8.1"
   },
   "devDependencies": {
-    "bankai": "^9.0.0-rc2",
+    "bankai": "^8.1.0",
+    "choo": "^6.4.2",
     "dependency-check": "^2.9.1",
+    "prettier-standard": "^7.0.1",
     "standard": "^10.0.3"
   }
 }

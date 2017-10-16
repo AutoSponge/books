@@ -1,0 +1,637 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2328,
+  "items": [
+   {
+    "kind": "books#volume",
+    "id": "Aaug_RnI-xQC",
+    "etag": "umES5/z7uC0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Aaug_RnI-xQC",
+    "volumeInfo": {
+     "title": "The Irresistible Rise of Harry Potter",
+     "authors": [
+      "Andrew Blake"
+     ],
+     "publisher": "Verso",
+     "publishedDate": "2002",
+     "description": "As the British state begins to unravel, and as journalists compete to pronounce on the death of Britain, a schoolboy from suburban Surrey who lives for most of the year in a semi-parallel universe becomes the most popular figure in contemporary world literature. Now read on – everyone else does... Harry Potter is English, a home-counties suburban child. An orphan, oppressed and abused by the adults around him, he retreats into a fantasy world where his problems are more elemental; everyday rituals, magic spells and supercharged broomsticks with only the occasional homicidal wizard to worry about. Ironically, as Andrew Blake makes clear, J. K. Rowling rescues her character through the reinvention of that apex of class privilege, the English public school, a literary conceit that problematises Harry Potter's status as a role model and raises important social questions about the state of education in Tony Blair's Britain. Andrew Blake's examination of the Harry Potter phenomenon also raises serious questions about the condition of the publishing industry, the state of bookselling and filmmaking, and the ways in which the Potter consumer campaign has changed our ideas about literature and reading. Blake reflects on how these connections, while drawn up in Britain, act as a template for Harry Potter's international success.",
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "1.1.1.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=Aaug_RnI-xQC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=Aaug_RnI-xQC&dq=harry+potter&hl=&as_pt=BOOKS&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Irresistible_Rise_of_Harry_Potter.html?hl=&id=Aaug_RnI-xQC"
+    },
+    "saleInfo": {
+     "country": "US"
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "Blake&#39;s examination of the Potter phenomenon raises serious questions about the condition of the publishing industry, filmmaking, and the ways in which the Potter consumer campaign has changed ideas about literature and reading."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "DU0LDAAAQBAJ",
+    "etag": "EeR1x0XcF6U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DU0LDAAAQBAJ",
+    "volumeInfo": {
+     "title": "Fantastic Beasts and Where to Find Them: The Original Screenplay",
+     "authors": [
+      "J.K. Rowling"
+     ],
+     "publisher": "Pottermore",
+     "publishedDate": "2016-11-18",
+     "description": "When Magizoologist Newt Scamander arrives in New York, he intends his stay to be just a brief stopover. However, when his magical case is misplaced and some of Newt's fantastic beasts escape, it spells trouble for everyone... Inspired by the original Hogwart’s textbook by Newt Scamander, Fantastic Beasts and Where to Find Them: The Original screenplay marks the screenwriting debut of J.K. Rowling, author of the beloved and internationally bestselling Harry Potter books. A feat of imagination and featuring a cast of remarkable characters and magical creatures, this is epic adventure-packed storytelling at its very best. Whether an existing fan or new to the wizarding world, this is a perfect addition for any film lover or reader’s bookshelf. The film Fantastic Beasts and Where to Find Them will have its theatrical release on 18th November 2016.",
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.6.6.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=DU0LDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=DU0LDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=DU0LDAAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=DU0LDAAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://market.android.com/details?id=book-DU0LDAAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "US",
+     "listPrice": {
+      "amount": 12.99,
+      "currencyCode": "USD"
+     },
+     "retailPrice": {
+      "amount": 12.99,
+      "currencyCode": "USD"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=DU0LDAAAQBAJ&rdid=book-DU0LDAAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.299E7,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amountInMicros": 1.299E7,
+        "currencyCode": "USD"
+       },
+       "giftable": true
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Fantastic_Beasts_and_Where_to_Find_Them-sample-epub.acsm?id=DU0LDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Fantastic_Beasts_and_Where_to_Find_Them-sample-pdf.acsm?id=DU0LDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "A feat of imagination and featuring a cast of remarkable characters and magical creatures, this is epic adventure-packed storytelling at its very best."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "iO5pApw2JycC",
+    "etag": "QF6FEebgHpE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/iO5pApw2JycC",
+    "volumeInfo": {
+     "title": "The Ivory Tower and Harry Potter",
+     "subtitle": "Perspectives on a Literary Phenomenon",
+     "authors": [
+      "Lana A. Whited"
+     ],
+     "publisher": "University of Missouri Press",
+     "publishedDate": "2004",
+     "description": "Now available in paper, The Ivory Tower and Harry Potter is the first book-length analysis of J. K. Rowling's work from a broad range of perspectives within literature, folklore, psychology, sociology, and popular culture. A significant portion of the book explores the Harry Potter series' literary ancestors, including magic and fantasy works by Ursula K. LeGuin, Monica Furlong, Jill Murphy, and others, as well as previous works about the British boarding school experience. Other chapters explore the moral and ethical dimensions of Harry's world, including objections to the series raised within some religious circles. In her new epilogue, Lana A. Whited brings this volume up to date by covering Rowling's latest book, Harry Potter and the Order of the Phoenix.",
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "2.0.3.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=iO5pApw2JycC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=iO5pApw2JycC&dq=harry+potter&hl=&as_pt=BOOKS&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Ivory_Tower_and_Harry_Potter.html?hl=&id=iO5pApw2JycC"
+    },
+    "saleInfo": {
+     "country": "US"
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Ivory_Tower_and_Harry_Potter-sample-epub.acsm?id=iO5pApw2JycC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "In her new epilogue, Lana A. Whited brings this volume up to date by covering Rowling&#39;s latest book, Harry Potter and the Order of the Phoenix."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "szF_pLGmJTQC",
+    "etag": "/33azFjEGHk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/szF_pLGmJTQC",
+    "volumeInfo": {
+     "title": "Baptizing Harry Potter",
+     "subtitle": "A Christian Reading of J.K. Rowling",
+     "authors": [
+      "Luke Bell"
+     ],
+     "publisher": "Paulist Press",
+     "publishedDate": "2010",
+     "description": "The scope and tragedy of the thing : the structure of the series -- More things in heaven and earth : going beyond the normal -- As if a man were author of himself : good against evil -- Be absolute for death : life and death -- Power is made perfect in weakness : power and weakness -- To lay down one's life for one's friends : love and sacrifice -- It is essential that you understand this : freedom and determination -- A pretty boring life : the hidden and the ostentatious -- Telling it like it is : the struggle for truth -- They will see God : purity of heart and purity of blood.",
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.1.0.0.preview.1",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=szF_pLGmJTQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=szF_pLGmJTQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=szF_pLGmJTQC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=szF_pLGmJTQC&source=gbs_api",
+     "canonicalVolumeLink": "https://market.android.com/details?id=book-szF_pLGmJTQC"
+    },
+    "saleInfo": {
+     "country": "US",
+     "listPrice": {
+      "amount": 12.95,
+      "currencyCode": "USD"
+     },
+     "retailPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=szF_pLGmJTQC&rdid=book-szF_pLGmJTQC&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.295E7,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amountInMicros": 9990000.0,
+        "currencyCode": "USD"
+       },
+       "giftable": true
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Baptizing_Harry_Potter-sample-pdf.acsm?id=szF_pLGmJTQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "The scope and tragedy of the thing : the structure of the series -- More things in heaven and earth : going beyond the normal -- As if a man were author of himself : good against evil -- Be absolute for death : life and death -- Power is ..."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "abYKXvCwEToC",
+    "etag": "FphAhIGaoUA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/abYKXvCwEToC",
+    "volumeInfo": {
+     "title": "Harry Potter",
+     "subtitle": "The Story of a Global Business Phenomenon",
+     "authors": [
+      "S. Gunelius"
+     ],
+     "publisher": "Springer",
+     "publishedDate": "2008-06-03",
+     "description": "The Harry Potter books are the bestselling books of all time. In this fascinating study, Susan Gunelius analyzes every aspect of the brand phenomenon that is Harry Potter. Delving into price wars, box office revenue, and brand values, amongst other things, this is the story of the most incredible brand success there has ever been.",
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "2.3.5.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=abYKXvCwEToC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=abYKXvCwEToC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=abYKXvCwEToC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC&source=gbs_api",
+     "canonicalVolumeLink": "https://market.android.com/details?id=book-abYKXvCwEToC"
+    },
+    "saleInfo": {
+     "country": "US",
+     "listPrice": {
+      "amount": 51.0,
+      "currencyCode": "USD"
+     },
+     "retailPrice": {
+      "amount": 40.29,
+      "currencyCode": "USD"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC&rdid=book-abYKXvCwEToC&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 5.1E7,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amountInMicros": 4.029E7,
+        "currencyCode": "USD"
+       },
+       "giftable": true
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter-sample-epub.acsm?id=abYKXvCwEToC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter-sample-pdf.acsm?id=abYKXvCwEToC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "The Harry Potter books are the bestselling books of all time. In this fascinating study, Susan Gunelius analyzes every aspect of the brand phenomenon that is Harry Potter."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "DKcWE3WXoj8C",
+    "etag": "ilkD6CxR42o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DKcWE3WXoj8C",
+    "volumeInfo": {
+     "title": "Harry Potter and International Relations",
+     "authors": [
+      "Daniel H. Nexon",
+      "Iver B. Neumann"
+     ],
+     "publisher": "Rowman & Littlefield",
+     "publishedDate": "2006-01-01",
+     "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=DKcWE3WXoj8C&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=DKcWE3WXoj8C&dq=harry+potter&hl=&as_pt=BOOKS&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_International_Relations.html?hl=&id=DKcWE3WXoj8C"
+    },
+    "saleInfo": {
+     "country": "US"
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter_and_International_Relations-sample-pdf.acsm?id=DKcWE3WXoj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry&#39;s world contain aspects of our own."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "wrOQLV6xB-wC",
+    "etag": "iaxijd3U3TY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/wrOQLV6xB-wC",
+    "volumeInfo": {
+     "title": "Harry Potter and the Sorcerer's Stone",
+     "authors": [
+      "J.K. Rowling"
+     ],
+     "publisher": "Pottermore",
+     "publishedDate": "2015-12-08",
+     "description": "\"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\" Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Pottermore has now launched the Wizarding World Book Club. Visit Pottermore to sign up and join weekly Twitter discussions at WW Book Club.",
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "2.20.18.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=wrOQLV6xB-wC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=wrOQLV6xB-wC&source=gbs_api",
+     "canonicalVolumeLink": "https://market.android.com/details?id=book-wrOQLV6xB-wC"
+    },
+    "saleInfo": {
+     "country": "US",
+     "listPrice": {
+      "amount": 8.99,
+      "currencyCode": "USD"
+     },
+     "retailPrice": {
+      "amount": 8.99,
+      "currencyCode": "USD"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=wrOQLV6xB-wC&rdid=book-wrOQLV6xB-wC&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 8990000.0,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amountInMicros": 8990000.0,
+        "currencyCode": "USD"
+       },
+       "giftable": true
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter_and_the_Sorcerer_s_Stone-sample-epub.acsm?id=wrOQLV6xB-wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter_and_the_Sorcerer_s_Stone-sample-pdf.acsm?id=wrOQLV6xB-wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "An incredible adventure is about to begin! Pottermore has now launched the Wizarding World Book Club. Visit Pottermore to sign up and join weekly Twitter discussions at WW Book Club."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "cHjF5K2uVdsC",
+    "etag": "Ff3dNibEg+0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cHjF5K2uVdsC",
+    "volumeInfo": {
+     "title": "Guide to the Harry Potter Novels",
+     "authors": [
+      "Julia Eccleshare"
+     ],
+     "publisher": "A&C Black",
+     "publishedDate": "2002-04-22",
+     "description": "Provides information on the plots and characters in the Harry Potter novels by J. K. Rowling.",
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.4.2.0.preview.3",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=cHjF5K2uVdsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=cHjF5K2uVdsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=cHjF5K2uVdsC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+     "infoLink": "http://books.google.com/books?id=cHjF5K2uVdsC&dq=harry+potter&hl=&as_pt=BOOKS&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Guide_to_the_Harry_Potter_Novels.html?hl=&id=cHjF5K2uVdsC"
+    },
+    "saleInfo": {
+     "country": "US"
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Guide_to_the_Harry_Potter_Novels-sample-epub.acsm?id=cHjF5K2uVdsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Guide_to_the_Harry_Potter_Novels-sample-pdf.acsm?id=cHjF5K2uVdsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "Provides information on the plots and characters in the Harry Potter novels by J. K. Rowling."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "7HgwCgAAQBAJ",
+    "etag": "j+GrJG76Kx4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7HgwCgAAQBAJ",
+    "volumeInfo": {
+     "title": "Harry Potter and the Classical World",
+     "subtitle": "Greek and Roman Allusions in J.K. Rowling's Modern Epic",
+     "authors": [
+      " Richard A. Spencer"
+     ],
+     "publisher": "McFarland",
+     "publishedDate": "2015-07-06",
+     "description": "J.K. Rowling has drawn deeply from classical sources to inform and color her Harry Potter novels, with allusions ranging from the obvious to the obscure. \"Fluffy,\" the vicious three-headed dog in Harry Potter and the Sorcerer's Stone, is clearly a repackaging of Cerberus, the hellhound of Greek and Roman mythology. But the significance of Rowling's quotation from Aeschylus at the front of Harry Potter and the Deathly Hallows is a matter of speculation. Her use of classical material is often presented with irony and humor. This extensive analysis of the Harry Potter series examines Rowling's wide range of allusion to classical characters and themes and her varied use of classical languages. Chapters discuss Harry and Narcissus, Dumbledore's many classical predecessors, Lord Voldemort's likeness to mythical figures, and magic in Harry Potter and classical antiquity--among many topics.",
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "0.1.1.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=7HgwCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=7HgwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=7HgwCgAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=7HgwCgAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://market.android.com/details?id=book-7HgwCgAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "US",
+     "listPrice": {
+      "amount": 18.99,
+      "currencyCode": "USD"
+     },
+     "retailPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=7HgwCgAAQBAJ&rdid=book-7HgwCgAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.899E7,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amountInMicros": 9990000.0,
+        "currencyCode": "USD"
+       },
+       "giftable": true
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter_and_the_Classical_World-sample-epub.acsm?id=7HgwCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Harry_Potter_and_the_Classical_World-sample-pdf.acsm?id=7HgwCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "This extensive analysis of the Harry Potter series examines Rowling’s wide range of allusion to classical characters and themes and her varied use of classical languages."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "WV8pZj_oNBwC",
+    "etag": "mgrM3ypQofk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/WV8pZj_oNBwC",
+    "volumeInfo": {
+     "title": "Harry Potter Power",
+     "authors": [
+      "Julie-Anne Sykley"
+     ],
+     "publisher": "Interactive Publications",
+     "publishedDate": "2010",
+     "description": "Uses motifs and situations from the popular 'Harry Potter' series and links them to theories and strategies designed to help young people overcome anxiety, anger, depression and grief.",
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.0.0.0.preview.1",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=WV8pZj_oNBwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=WV8pZj_oNBwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "previewLink": "http://books.google.com/books?id=WV8pZj_oNBwC&printsec=frontcover&dq=harry+potter&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=WV8pZj_oNBwC&source=gbs_api",
+     "canonicalVolumeLink": "https://market.android.com/details?id=book-WV8pZj_oNBwC"
+    },
+    "saleInfo": {
+     "country": "US",
+     "listPrice": {
+      "amount": 15.57,
+      "currencyCode": "USD"
+     },
+     "retailPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=WV8pZj_oNBwC&rdid=book-WV8pZj_oNBwC&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.557E7,
+        "currencyCode": "USD"
+       },
+       "retailPrice": {
+        "amountInMicros": 9990000.0,
+        "currencyCode": "USD"
+       },
+       "giftable": true
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "US",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": true
+     },
+     "accessViewStatus": "SAMPLE"
+    },
+    "searchInfo": {
+     "textSnippet": "&quot;[The author] shows how the universal themes in the Harry Potter series can make your life more positive and healthy and your lifestyle more sustainable.&quot;--Back cover."
+    }
+   }
+  ]
+ }
+ 
